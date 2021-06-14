@@ -57,4 +57,4 @@ Responsive Website developed for a course of Web Design. Created with HTML, CSS,
 <hr></hr>
 
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-reisfeld-polite" target="_blank"> Linkedin</a>
+📫 How to contact me: <a href="https://www.linkedin.com/in/gabriel-reisfeld-polite" target="_blank"> Linkedin</a>
