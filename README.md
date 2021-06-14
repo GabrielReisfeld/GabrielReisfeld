@@ -24,4 +24,4 @@
 
  
   
-📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-reisfeld-polite"> Linkedin</a> 
+📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-reisfeld-polite" target="_blank"> Linkedin</a>
