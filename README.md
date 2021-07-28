@@ -22,7 +22,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   
   <h2> Projects </h2>
-
+ 
 <h3> Warmi Ventures </h3>
 <div align="center"> 
 <img src="https://i.ibb.co/hdLh0SX/Warmi-Ventures-Preview.jpg" alt="Warmi-Ventures-Preview">
@@ -30,6 +30,18 @@
 Responsive Website developed for a innovation and entrepreneurship center from Peru. Created with HTML, CSS, Javascript, Bootstrap and PHP.
                                                                                           
  <a href="https://warmiventures.com/">Website</a> | <a href="https://github.com/GabrielReisfeld/Warmi-Ventures/">Repositorie</a>
+ </div>
+
+
+<hr></hr>
+
+<h3> Who Wants To Be a Millionaire? </h3>
+<div align="center"> 
+<img src="https://i.ibb.co/zSZK0jy/Preview.jpg" alt="Trivia-Preview">
+ 
+App developed using React and CSS.
+                                                                                          
+ <a href="https://who-wants-to-be-a-millionaire-app.netlify.app/">Website</a> | <a href="https://github.com/GabrielReisfeld/Who-Wants-to-Be-a-Millionaire-App">Repositorie</a>
  </div>
  
 <hr></hr>
