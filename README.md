@@ -27,7 +27,7 @@
 <div align="center"> 
 <img src="https://i.ibb.co/hdLh0SX/Warmi-Ventures-Preview.jpg" alt="Warmi-Ventures-Preview">
  
-Responsive Website developed for a innovation and entrepreneurship center from Peru. Created with HTML, CSS, Javascript, Bootstrap and PHP.
+Responsive Website developed for a innovation and entrepreneurship company from Peru. Created with HTML, CSS, Javascript, Bootstrap and PHP.
                                                                                           
  <a href="https://warmiventures.com/">Website</a> | <a href="https://github.com/GabrielReisfeld/Warmi-Ventures/">Repositorie</a>
  </div>
