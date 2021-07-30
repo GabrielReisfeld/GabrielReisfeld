@@ -39,7 +39,7 @@ Responsive Website developed for a innovation and entrepreneurship company from 
 <div align="center"> 
 <img src="https://i.ibb.co/zSZK0jy/Preview.jpg" alt="Trivia-Preview">
  
-App developed using React and CSS.
+Trivia game like the TV program "Who Wants to be a Millionaire". App developed using React and CSS.
                                                                                           
  <a href="https://who-wants-to-be-a-millionaire-app.netlify.app/">Website</a> | <a href="https://github.com/GabrielReisfeld/Who-Wants-to-Be-a-Millionaire-App">Repositorie</a>
  </div>
