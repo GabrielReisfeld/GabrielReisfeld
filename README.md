@@ -27,9 +27,25 @@
 <div align="center"> 
 <img src="https://i.ibb.co/hdLh0SX/Warmi-Ventures-Preview.jpg" alt="Warmi-Ventures-Preview">
  
-Responsive Website developed for a innovation and entrepreneurship company from Peru. Created with HTML, CSS, Javascript, Bootstrap and PHP.
+Responsive Website developed for a innovation and entrepreneurship company from Peru.
+  
+Created with HTML, CSS, Javascript, Bootstrap and PHP.
                                                                                           
  <a href="https://warmiventures.com/">Website</a> | <a href="https://github.com/GabrielReisfeld/Warmi-Ventures/">Repositorie</a>
+ </div>
+
+
+<hr></hr>
+
+<h3> Digital Agency </h3>
+<div align="center"> 
+<img src="https://i.ibb.co/6PRzw7g/Digital-Agency-Preview.jpg" alt="Warmi-Ventures-Preview">
+ 
+Modern Responsive Website developed for a fictional Digital Agency.
+  
+Created with React, Styled Components, Material UI, Clip-Path and CSS Animation.
+                                                                                          
+ <a href="https://digitalagency-web.netlify.app/">Website</a> | <a href="https://github.com/GabrielReisfeld/Digital-Agency-Web">Repositorie</a>
  </div>
 
 
@@ -39,7 +55,9 @@ Responsive Website developed for a innovation and entrepreneurship company from 
 <div align="center"> 
 <img src="https://i.ibb.co/zSZK0jy/Preview.jpg" alt="Trivia-Preview">
  
-Trivia game like the TV program "Who Wants to be a Millionaire". App developed using React and CSS.
+Trivia game like the TV program "Who Wants to be a Millionaire".
+  
+App developed using React and Pure CSS.
                                                                                           
  <a href="https://who-wants-to-be-a-millionaire-app.netlify.app/">Website</a> | <a href="https://github.com/GabrielReisfeld/Who-Wants-to-Be-a-Millionaire-App">Repositorie</a>
  </div>
@@ -50,7 +68,9 @@ Trivia game like the TV program "Who Wants to be a Millionaire". App developed u
 <div align="center"> 
 <img src="https://i.ibb.co/YRBpnhG/Consolas-Preview.jpg" alt="Consolas-Preview">
  
-Responsive Website developed for a course of Javascript. Created with HTML, CSS, Javascript, jQuery and Bootstrap.
+Responsive Website developed for a course of Javascript.
+  
+Created with HTML, CSS, Javascript, jQuery and Bootstrap.
                                                                                           
  <a href="https://gabrielreisfeld.github.io/Proyecto-Curso-Javascript/">Website</a> | <a href="https://github.com/GabrielReisfeld/Proyecto-Curso-Javascript">Repositorie</a>
  </div>
@@ -61,7 +81,9 @@ Responsive Website developed for a course of Javascript. Created with HTML, CSS,
 <div align="center"> 
 <img src="https://i.ibb.co/THTNmNX/Estudio-Preview.jpg" alt="Estudio-Preview">
  
-Responsive Website developed for a course of Web Design. Created with HTML, CSS, SASS and Bootstrap.
+Responsive Website developed for a course of Web Design.
+  
+Created with HTML, CSS, SASS and Bootstrap.
                                                                                           
  <a href="https://gabrielreisfeld.github.io/Proyecto-Curso-Desarrollo-Web/">Website</a> | <a href="https://github.com/GabrielReisfeld/Proyecto-Curso-Desarrollo-Web">Repositorie</a>
  </div>
