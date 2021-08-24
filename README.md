@@ -43,7 +43,7 @@ Created with HTML, CSS, Javascript, Bootstrap and PHP.
  
 App recreating the original Pokedex from the TV Show Pokemon.
   
-Created with React pure CSS and Axios to make the request to the PokeAPI.
+Created with React, pure CSS and Axios to make the request to the PokeAPI.
                                                                                           
  <a href="https://pokedex-greis.netlify.app/">Website</a> | <a href="https://github.com/GabrielReisfeld/Pokedex">Repositorie</a>
  </div>
