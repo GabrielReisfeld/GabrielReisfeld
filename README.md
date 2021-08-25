@@ -39,7 +39,7 @@ Created with HTML, CSS, Javascript, Bootstrap and PHP.
 
 <h3> Pokedex </h3>
 <div align="center"> 
-<img src="https://i.ibb.co/LvCwT1F/Pokedex-Preview.jpg" alt="Warmi-Ventures-Preview">
+<img src="https://i.ibb.co/1RZ0Qgy/Pokedex-Preview.jpg" alt="Warmi-Ventures-Preview">
  
 App recreating the original Pokedex from the TV Show Pokemon.
   
@@ -47,7 +47,6 @@ Created with React, pure CSS and Axios to make the request to the PokeAPI.
                                                                                           
  <a href="https://pokedex-greis.netlify.app/">Website</a> | <a href="https://github.com/GabrielReisfeld/Pokedex">Repositorie</a>
  </div>
-
 
 <hr></hr>
 
