@@ -37,9 +37,23 @@ Created with HTML, CSS, Javascript, Bootstrap and PHP.
 
 <hr></hr>
 
+<h3> Pin Travel Map </h3>
+<div align="center"> 
+<img src="https://i.ibb.co/8xZWvVS/Pin-Travel-Map-Preview.jpg" alt="Pin-Travel-Map-Preview">
+ 
+App where you pin your location anywhere in the world and leave a review from the place for other users.
+  
+The app was made in the Frontend with React.js, using Functional Components and Hooks, and Material-UI for the styles. The Backend was made with Node.js and Express. And MongoDB and Mongoose for the Database.
+                                                                                          
+ <a href="https://travelpins-app.herokuapp.com/">Website</a> | <a href="https://github.com/GabrielReisfeld/Travel-Map">Repositorie</a>
+ </div>
+
+
+<hr></hr>
+
 <h3> Pokedex </h3>
 <div align="center"> 
-<img src="https://i.ibb.co/1RZ0Qgy/Pokedex-Preview.jpg" alt="Warmi-Ventures-Preview">
+<img src="https://i.ibb.co/1RZ0Qgy/Pokedex-Preview.jpg" alt="Pokedex-Preview">
  
 App recreating the original Pokedex from the TV Show Pokemon.
   
@@ -52,7 +66,7 @@ Created with React, pure CSS and Axios to make the request to the PokeAPI.
 
 <h3> Digital Agency </h3>
 <div align="center"> 
-<img src="https://i.ibb.co/6PRzw7g/Digital-Agency-Preview.jpg" alt="Warmi-Ventures-Preview">
+<img src="https://i.ibb.co/6PRzw7g/Digital-Agency-Preview.jpg" alt="Digital-Agency-Preview">
  
 Modern Responsive Website developed for a fictional Digital Agency.
   
