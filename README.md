@@ -104,18 +104,5 @@ Created with HTML, CSS, Javascript, jQuery and Bootstrap.
  
 <hr></hr>
 
-<h3> Law Firm </h3>
-<div align="center"> 
-<img src="https://i.ibb.co/THTNmNX/Estudio-Preview.jpg" alt="Estudio-Preview">
- 
-Responsive Website developed for a course of Web Design.
-  
-Created with HTML, CSS, SASS and Bootstrap.
-                                                                                          
- <a href="https://gabrielreisfeld.github.io/Proyecto-Curso-Desarrollo-Web/">Website</a> | <a href="https://github.com/GabrielReisfeld/Proyecto-Curso-Desarrollo-Web">Repositorie</a>
- </div>
- 
-<hr></hr>
-
 
 📫 How to contact me: <a href="https://www.linkedin.com/in/gabriel-reisfeld-polite" target="_blank"> Linkedin</a>
